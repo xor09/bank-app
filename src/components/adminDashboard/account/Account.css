@@ -1,0 +1,12 @@
+.addAccount-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+}
+
+.accountTable-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
